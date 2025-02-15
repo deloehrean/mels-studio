@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+lib
+coverage/
+serverless-dist
+.eslintrc.cjs
+.eslintignore
+.editorconfig
+__generated__
